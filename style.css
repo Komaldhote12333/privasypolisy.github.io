@@ -1,0 +1,60 @@
+.componenteach{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 4rem;
+
+        box-shadow: 0 2px 4px rgba(161, 143, 143, 0.2); /* Adjust the values as needed */
+    
+      
+}
+
+.content-of-componrnt,.nested11{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.content-of-componrnt .content,.nested11,.contetnt-nested11,.t{
+  padding-left: 1rem;
+}
+
+.heading{
+    font-weight: 600;
+}
+
+.contenten{
+    padding-left: 1.8rem ;
+}
+
+.bold-word {
+    font-weight: bold;
+  }
+  
+
+/*secod part */
+
+
+.second-polysypart{
+    border: 1px solid rgb(236, 224, 224);
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 3rem;
+}
+
+#second-part-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.lastupdate {
+    padding-left: 3rem;
+    margin: 2rem 0rem;
+    font-weight: 500;
+
+}
