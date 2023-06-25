@@ -21,6 +21,9 @@
 
 .firstcontent{
     font-weight: 501;
+    text-align: center;
+    color: #0C9DB3;
+    font-size: 1.30rem;
 }
 
 .heading{
@@ -61,4 +64,9 @@
     margin: 2rem 0rem;
     font-weight: 500;
 
+}
+
+
+.section.about.wf-section {
+    padding-top: 3rem;
 }
